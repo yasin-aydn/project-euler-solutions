@@ -17,7 +17,4 @@ def find_max_path(triangle):
     
     print("Result:", triangle_grid[0][0])
 
-    for i in triangle_grid:
-        print(i)
-
 find_max_path(triangle)
